@@ -251,8 +251,8 @@ header
 
 .aboutMe
 {
-    padding-top: 155px;
-    padding-bottom: 135px;
+    padding-top: 100px;
+    padding-bottom: 85px;
 
     background-image: url(images/aboutUs.png);
 }
@@ -328,6 +328,9 @@ header
     line-height: 1.25;
 
     padding-bottom: 115px;
+}
+.carouselSpacing {
+    margin-bottom: 50px;
 }
 .topFooter
 {
