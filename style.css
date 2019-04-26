@@ -1,0 +1,383 @@
+
+header
+{
+    font-family: 'Myriad Pro Regular', 'Helvetica', 'Serif';
+    font-size: 25px;
+    line-height: 7.917;
+
+    opacity: .71;
+    color: rgb( 215, 121, 74 );
+}
+.navbar
+{
+    padding-left: 60px;
+
+    background-color: rgba(137,141,142, .7);
+}
+
+.nav-item,
+.navbar-brand
+{
+    font-family: 'Myriad Pro Regular', 'Helvetica', 'Serif';
+    font-size: 20px;
+}
+
+.nav-link,
+.navbar-brand
+{
+    color: rgb( 215, 214, 214 );
+}
+.nav-link:hover,
+.navbar-brand:hover
+{
+    color: #373839;
+}
+.nav-item:hover,
+.navbar-brand:hover
+{
+    background-color: rgba(102,153,153, .5);
+}
+.welcome i
+{
+    padding-right: 5%;
+}
+.container-fluid h1
+{
+    padding-top: 45px;
+    padding-bottom: 47px;
+    padding-left: 45px;
+}
+.welcome
+{
+    min-height: 100%;
+    padding-top: 0;
+    padding-bottom: 710px;
+
+    background-image: url(images/test.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.welcomeText
+{
+    font-family: 'Baskerville', 'Helvetica', 'Serif';
+    font-size: 72px;
+    line-height: 1;
+
+    position: absolute;
+    bottom: 142px;
+    left: 65.5%;
+
+    color: rgb(96, 96, 96);
+}
+
+
+.welcomeText span
+{
+    font-family: 'Athelas Regular', 'Helvetica', 'Serif';
+    font-size: 48px;
+    line-height: 1;
+
+    padding-top: 40px;
+
+    color: rgb( 215, 121, 74 );
+}
+
+.line
+{
+    display: block;
+
+    width: 440px;
+    margin: 0 auto;
+    margin-bottom: 85px;
+    padding-top: 40px;
+
+    content: '';
+
+    border-bottom: 1px solid #a07661;
+}
+
+.personalInfoHeading
+{
+    font-family: 'Athelas Regular', 'Helvetica', 'Serif';
+    font-size: 72px;
+    line-height: 1;
+
+    padding-top: 100px;
+
+    color: rgb( 169, 94, 57 );
+}
+
+.personalInfoText
+{
+    font-family: 'Helvetica', 'Serif';
+    font-size: 24px;
+    line-height: 1.25;
+
+    margin-bottom: 135px;
+}
+
+.personalInfoCards
+{
+    margin-right: 11%;
+    margin-bottom: 125px;
+    margin-left: 9%;
+}
+.personalInfoCards .card-text
+{
+    font-family: 'Helvetica', 'Serif';
+    font-size: 24px;
+    line-height: 1.25;
+}
+.personalInfoCards .card-title
+{
+    font-family: 'Helvetica', 'Serif';
+    font-size: 36px;
+    line-height: .833;
+}
+
+.card
+{
+    text-align: center;
+
+    border-style: none;
+}
+.card-title
+{
+    margin: 50px auto;
+}
+.advantagesPicture
+{
+    width: 100%;
+    min-height: 100%;
+}
+
+.expirienceInfo
+{
+    font-family: 'Vani', 'Helvetica', 'Serif';
+    font-size: 60px;
+    font-weight: bold;
+    line-height: .5;
+
+    padding-top: 115px;
+    padding-bottom: 110px;
+
+    color: rgb( 153, 84, 55 );
+    background-color: #1f3138;
+}
+
+.expirienceInfo span
+{
+    font-family: 'Myriad Pro Regular', 'Helvetica', 'Serif';
+    font-size: 20px;
+    line-height: 1.5;
+
+    color: rgb( 255, 255, 255 );
+}
+
+.advantages
+{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.jumbotron.advantages
+{
+    margin-bottom: 0;
+}
+
+.contactMe
+{
+    background-color: #23495a;
+}
+.form-control
+{
+    font-family: 'QuattrocentoSans', 'Helvetica', 'Serif';
+    font-size: 16px;
+    line-height: 1.875;
+
+    color: rgb( 143, 143, 143 );
+    background-color: #23495a;
+}
+
+.contactMe h1
+{
+    font-family: 'Athelas Regular', 'Helvetica', 'Serif';
+    font-size: 48px;
+    line-height: 1.979;
+
+    padding-top: 100px;
+    padding-bottom: 65px;
+
+    color: rgb( 255, 255, 255 );
+}
+.contactMe p
+{
+    font-family: 'Quattrocento Sans', 'Helvetica', 'Serif';
+    font-size: 20px;
+    line-height: 1.5;
+
+    color: rgb( 192, 192, 192 );
+}
+
+.contactMeForm
+{
+    font-family: 'QuattrocentoSans', 'Helvetica', 'Serif';
+    font-size: 16px;
+    line-height: 1.875;
+
+    margin-top: 120px;
+    padding-bottom: 170px;
+
+    color: rgb( 143, 143, 143 );
+}
+
+
+.contactMe button
+{
+    font-family: 'Myriad Pro Regular', 'Helvetica', 'Serif';
+    font-size: 24px;
+    line-height: 1.25;
+
+    color: rgb( 255, 255, 255 );
+    border-style: none;
+    background-color: #89553b;
+}
+
+.aboutMe
+{
+    padding-top: 355px;
+    padding-bottom: 335px;
+
+    background-image: url(images/aboutUs.png);
+}
+.aboutMeRight
+{
+    margin-top: 30px;
+    margin-bottom: 35px;
+
+    background-color: #fffff;
+}
+
+.aboutMeRight h2
+{
+    font-family: 'Athelas Regular', 'Helvetica', 'Serif';
+    font-size: 48px;
+    line-height: 1.5;
+
+    padding-top: 70px;
+    padding-bottom: 20px;
+
+    color: rgb( 0, 0, 0 );
+}
+
+.aboutMeRight p
+{
+    font-family: 'QuattrocentoSans', 'Helvetica', 'Serif';
+    font-size: 20px;
+    line-height: 1.5;
+
+    padding-bottom: 20px;
+
+    color: rgb( 61, 61, 61 );
+}
+
+.aboutMeRight img
+{
+    width: 140px;
+    height: 140px;
+    margin-bottom: 30px;
+}
+
+.aboutMeRight h3
+{
+    font-family: 'Myriad Pro Regular', 'Helvetica', 'Serif';
+    font-size: 24px;
+    line-height: 2;
+
+    margin-bottom: 30px;
+}
+
+.gallery h1
+{
+    font-family: 'Athelas', 'Helvetica', 'Serif';
+    font-size: 72px;
+    line-height: 1;
+
+    padding-top: 150px;
+    padding-bottom: 95px;
+
+    color: rgb( 169, 94, 57 );
+}
+.gallery p
+{
+    font-family: 'Helvetica';
+    font-size: 24px;
+    line-height: 1.25;
+
+    padding-bottom: 165px;
+}
+.topFooter
+{
+    background-color: #1b2c33;
+}
+.topFooter .row
+{
+    margin-left: 6%;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.topFooter h4
+{
+    font-family: 'Myriad Pro Regular', 'Helvetica', 'Serif';
+    font-size: 16px;
+    line-height: 1.5;
+
+    padding-bottom: 10px;
+
+    color: #d2d3d7;
+}
+
+.topFooter p
+{
+    font-family: 'Myriad Pro Regular', 'Helvetica', 'Serif';
+    font-size: 14px;
+    line-height: 1.5;
+
+    color: #f8f5f3;
+}
+
+.topFooter a
+{
+    font-family: 'Myriad Pro Regular', 'Helvetica', 'Serif';
+    font-size: 16px;
+    line-height: 1;
+
+    color: #d2d3d7;
+}
+
+footer
+{
+    font-family: 'Myriad Pro Regular', 'Helvetica', 'Serif';
+    font-size: 14px;
+    line-height: 2;
+
+    padding-top: 20px;
+
+    color: rgb( 205, 203, 203 );
+    background-color: #000;
+}
+footer a
+{
+    font-family: 'Myriad Pro Regular', 'Helvetica', 'Serif';
+    font-size: 14px;
+    line-height: 2;
+
+    color: rgb( 205, 203, 203 );
+}
+.socialPics a
+{
+    font-size: 24px;
+
+    color: white;
+}

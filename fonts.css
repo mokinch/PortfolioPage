@@ -1,0 +1,32 @@
+@font-face
+{
+    font-family: 'Myriad Pro Regular';
+    font-weight: normal;
+    font-style: normal;
+
+    src: url('MyriadPro-Regular.eot');
+    src: url('MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+    url('MyriadPro-Regular.woff') format('woff'),
+    url('MyriadPro-Regular.ttf') format('truetype');
+}
+@font-face
+{
+    font-family: 'Athelas Regular';
+    font-weight: normal;
+    font-style: normal;
+
+    src: local('Athelas Regular'), url('Athelas-Regular.woff') format('woff');
+}
+@font-face
+{
+    font-family: 'Vani';
+
+    src: url('//db.onlinewebfonts.com/t/756871f756ee24c7029aafdad4cbdc62.eot');
+    src: url('//db.onlinewebfonts.com/t/756871f756ee24c7029aafdad4cbdc62.eot?#iefix') format('embedded-opentype'),
+    url('//db.onlinewebfonts.com/t/756871f756ee24c7029aafdad4cbdc62.woff2') format('woff2'),
+    url('//db.onlinewebfonts.com/t/756871f756ee24c7029aafdad4cbdc62.woff') format('woff'),
+    url('//db.onlinewebfonts.com/t/756871f756ee24c7029aafdad4cbdc62.ttf') format('truetype'),
+    url('//db.onlinewebfonts.com/t/756871f756ee24c7029aafdad4cbdc62.svg#Vani') format('svg');
+}
+
+@import url('https://fonts.googleapis.com/css?family=Quattrocento+Sans');
