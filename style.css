@@ -329,7 +329,8 @@ header
 
     padding-bottom: 115px;
 }
-.carouselSpacing {
+.carouselSpacing
+{
     margin-bottom: 50px;
 }
 .topFooter
@@ -346,7 +347,7 @@ header
 .topFooter h4
 {
     font-family: 'Myriad Pro Regular', 'Helvetica', 'Serif';
-    font-size: 16px;
+    font-size: 24px;
     line-height: 1.5;
 
     padding-bottom: 10px;
@@ -362,8 +363,12 @@ header
 
     color: #f8f5f3;
 }
+.topFooter div
+{
+    padding-bottom: 15px;
+}
 
-#topFooterContacts p a
+.topFooterContacts p a
 {
     font-family: 'Myriad Pro Regular', 'Helvetica', 'Serif';
     font-size: 14px;
